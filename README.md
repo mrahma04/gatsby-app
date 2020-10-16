@@ -1,6 +1,8 @@
 # gatsby-app
 
-## Git
+
+
+### Git
 
 A litte note on git. If you start your project locally and then create a remote repo on GitHub with a README.md file for example, then you must 'fetch' and 'merge' the remote copy to the local branch.
 
