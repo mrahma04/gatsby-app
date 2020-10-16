@@ -1,8 +1,8 @@
 # gatsby-app
 
-### Git
+### A little note on Git
 
-A litte note on git. If you start your project locally and then create a remote repo on GitHub with a README.md file for example, then you must 'fetch' and 'merge' the remote copy to the local branch. This way both your local and remote branches are in sync before you can start to commit changes etc.
+If you start your project locally and then create a remote repo on GitHub with a README.md file for example, then you must 'fetch' and 'merge' the remote copy to the local branch. This way both your local and remote branches are in sync before you can start to commit changes etc.
 
 This can be done by using the single `git pull origin main` command where 'origin' is the name of your remote repo and 'main' is the name of the (remote) branch that includes the README.md file.
 
